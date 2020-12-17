@@ -1,21 +1,21 @@
 <template>
-  <div class="text-center">
+  <div class="text-center font-ibm">
     <section class="section mt-20">
-      <h1 class="text-black text-3xl">
+      <h1 class="text-main">
         ProjectStudio는<br />
         공동 작업자를<br />
         더욱 편하게 찾아줍니다.
       </h1>
-      <p class="mt-2">믿을 수 있는 개발자, 디자이너, 투자자를 만나보세요</p>
+      <p class="text-sub">믿을 수 있는 개발자, 디자이너, 투자자를 만나보세요</p>
       <img src="@/assets/img/partner.png" alt="" />
     </section>
-    <section class="section mt-20">
-      <h1 class="text-black text-3xl">
+    <section class="section">
+      <h1 class="text-main">
         전세계 사람들과<br />
         글로벌한 프로젝트를<br />
         시작해보세요.
       </h1>
-      <p class="mt-2">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
+      <p class="text-sub">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
       <img src="@/assets/img/world.png" alt="" />
     </section>
     <section class="bg-gray relative">
@@ -37,11 +37,11 @@
             stroke-width="4"
           />
         </svg>
-        <h1 class="mt-20 text-black text-3xl">
+        <h1 class="text-main">
           프로들의 <br />
           Communication
         </h1>
-        <p class="mt-2">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
+        <p class="text-sub">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
 
         <div class="mx-auto mt-20">
           <svg
@@ -199,7 +199,7 @@
         로그인 후<br />
         이용해 보세요
       </h1>
-      <p class="mt-2">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
+      <p class="text-sub">전문가에게 피드백을 받고 프로젝트를 발전시키세요</p>
 
       <div class="mx-auto mt-20"></div>
       <b-button class="mt-20 w-1/2 h-16 text-xl" type="is-danger" rounded
