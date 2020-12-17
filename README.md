@@ -20,5 +20,7 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 MacPro Github Test
+
 # NuxtBuetyTF
-# NuxtBuetyTF
+
+디자인 수정 해야함
